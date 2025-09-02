@@ -2,7 +2,7 @@ import React from 'react';
 import { Download, Eye } from 'lucide-react';
 import { motion } from 'framer-motion';
 
-const RESUME_URL = "https://docs.google.com/uc?export=download&id=1sroNcbItOibrAK0LIjvH1OId4H1e8EZL";
+const RESUME_URL = "https://drive.google.com/file/d/1UxIFb2KPFEJbqUeJzyJUwlsFHv-30L37/view?usp=sharing";
 const PROFILE_IMAGE_URL = "https://i.postimg.cc/52GRjnrW/Whats-App-Image-2025-08-31-at-22-57-50-edcfba82.jpg";
 
 export default function HeroSection() {
